@@ -6,4 +6,4 @@ A prova deve ser resolvida utilizando obrigatoriamente Java 8. Não será necess
 
 Se souber testes unitários, implemente-os.
 
-Todos os requisitos funcionais tem que ser atendidos 100% para que sua solução seja aprovada. Sua prova precisa compilar via Maven, impreterivelmente - não basta rodar apenas via sua IDE.
+Todos os requisitos funcionais têm que ser atendidos 100% para que sua solução seja aprovada. Sua prova precisa compilar via Maven, impreterivelmente - não basta rodar apenas via sua IDE.
